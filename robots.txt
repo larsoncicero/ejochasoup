@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loquaisix.zhenger.xyz/sitemap.xml
